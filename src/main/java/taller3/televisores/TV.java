@@ -76,7 +76,7 @@ public class TV {
 		}
 	}
 	public static void setNumTV(int num) {
-		this.numTv=num;
+		numTv=num;
 	}
 
 }
