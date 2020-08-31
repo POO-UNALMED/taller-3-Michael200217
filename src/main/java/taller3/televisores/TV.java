@@ -75,5 +75,8 @@ public class TV {
 			this.volumen--;
 		}
 	}
+	public void setNumTv(int num) {
+		this.NumTv=num;
+	}
 
 }
